@@ -5,3 +5,7 @@ I did the battlesystem part of the assignment. The others had to do the rest. I 
 Had to also create some slides for the project. 
 Note: Documents folder is what we had to show to the professor before we began to code our assignment. 
 Learned how to use Unity to make a game for an android application
+# Credit to the other three team members:
+•	Cristian Munoz
+•	Diana Rios
+•	Rafael Aldaco
